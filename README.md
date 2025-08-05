@@ -1,6 +1,8 @@
 # Assignment: Cross-Platform System Utility + Admin Dashboard
 
 ## 🎯 Objective
+The **primary aim** of this assignment is to **evaluate how you think** — your **approach to problem-solving, design decisions, and technical tradeoffs** — along with your **coding skills**.
+
 Build a system that includes:
 - A **cross-platform utility** to collect system health data
 - An **admin dashboard** to centrally view this data
