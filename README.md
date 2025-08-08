@@ -28,7 +28,7 @@ The project is split into **three parts**:
   - Sends updates to a remote API endpoint
   - Consumes minimal resources
 
-### 2. 🔁 Optional – Backend Server (API + Storage)
+### 2. 🔁 Backend Server (API + Storage)
 - Accepts system data from the utility (via secure HTTP)
 - Stores machine ID, timestamps, and check results
 - Provides APIs for:
@@ -36,7 +36,7 @@ The project is split into **three parts**:
   - Filtering based on OS, issues, etc.
   - **Optional**: CSV export endpoint
 
-### 3. 🔁 Optional – Admin Dashboard (Frontend)
+### 3. 🔁  Admin Dashboard (Frontend)
 - A web UI that:
   - Lists all reporting machines
   - Displays latest values from each
@@ -47,12 +47,7 @@ The project is split into **three parts**:
 ---
 
 ## 📤 Submission Guidelines
-- The **Utility is mandatory** for submission
-- Submit **any one** of the remaining two (**Backend** or **Frontend**) along with the Utility
-- Full credit for submitting all three  
-- Partial evaluation for:
-  - Utility + Backend
-  - Utility + Frontend
+- The **Entire Assignment including utility frontend backend is mandatory** for submission
 
 ---
 
