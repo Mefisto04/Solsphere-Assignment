@@ -36,7 +36,7 @@ export default function Admin() {
               <div className="flex items-center space-x-3">
                 <div>
                   <h1 className="text-xl font-bold text-gray-100 font-inter">
-                    Solsphere Dashboard
+                    Sophia Dashboard
                   </h1>
                 </div>
               </div>

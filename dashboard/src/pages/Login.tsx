@@ -37,7 +37,7 @@ export default function Login() {
             <Icons.Logo className="w-8 h-8 text-white" />
           </div>
           <h1 className="text-3xl font-bold text-gray-100 font-inter mb-2">
-            Solsphere
+            Sophia
           </h1>
           <p className="text-gray-400 font-inter">System Health Dashboard</p>
         </div>
